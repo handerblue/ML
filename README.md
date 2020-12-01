@@ -16,3 +16,8 @@ Machine Learning Andrew Ng
 https://www.coursera.org/learn/machine-learning/home/welcome
 https://www.coursera.org/specializations/deep-learning
 
+MIT AI 2014:
+https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
+ML for Beginner
+https://classroom.udacity.com/courses/ud262
