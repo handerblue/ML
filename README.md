@@ -1,3 +1,8 @@
+## Hands-on ML 
+https://github.com/ageron/handson-ml2/
+
+# Image Download for Object Detection & Image Classfication
+https://github.com/EscVM/OIDv4_ToolKit
 
 ## RoadMap
 https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
@@ -21,3 +26,6 @@ https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4
 
 ML for Beginner
 https://classroom.udacity.com/courses/ud262
+
+Foundations of ML
+https://bloomberg.github.io/foml/#resources
