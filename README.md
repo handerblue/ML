@@ -1,7 +1,12 @@
-## Hands-on ML 
+## Books
+
+Hands-on ML: Sklearn/Keras/TF
 https://github.com/ageron/handson-ml2/
 
-# Image Download for Object Detection & Image Classfication
+Numpy Basic
+https://jakevdp.github.io/PythonDataScienceHandbook/index.html
+
+## Image Download for Object Detection & Image Classfication
 https://github.com/EscVM/OIDv4_ToolKit
 
 ## RoadMap
