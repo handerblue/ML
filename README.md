@@ -1,10 +1,3 @@
-## Books
-
-Hands-on ML: Sklearn/Keras/TF
-https://github.com/ageron/handson-ml2/
-
-Numpy Basic
-https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 
 ## Image Download for Object Detection & Image Classfication
 https://github.com/EscVM/OIDv4_ToolKit
@@ -13,9 +6,11 @@ https://github.com/EscVM/OIDv4_ToolKit
 https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
 
 ## Books
-Python Data Science Handbook:
+- Python Data Science Handbook:
 https://jakevdp.github.io/PythonDataScienceHandbook/
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition:
+https://github.com/ageron/handson-ml2/
 
 ## Course
 Standford CV
