@@ -6,6 +6,7 @@ Amazon Science: https://www.amazon.science/blog
 AWS ML: https://aws.amazon.com/blogs/machine-learning/
 
 Google AI: https://ai.googleblog.com/
+
 DeepMind: https://deepmind.com/
 
 Facebook AI: https://ai.facebook.com/blog/
