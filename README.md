@@ -20,6 +20,8 @@ Others:
 ## Image Download for Object Detection & Image Classfication
 https://github.com/EscVM/OIDv4_ToolKit
 
+Open Images Dataset: https://storage.googleapis.com/openimages/web/download.html
+
 ## RoadMap
 https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
 
