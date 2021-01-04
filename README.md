@@ -1,3 +1,24 @@
+## NEWS
+CMU: https://blog.ml.cmu.edu/
+
+Amazon Science: https://www.amazon.science/blog
+
+AWS ML: https://aws.amazon.com/blogs/machine-learning/
+
+Google AI: https://ai.googleblog.com/
+DeepMind: https://deepmind.com/
+
+Facebook AI: https://ai.facebook.com/blog/
+
+OpenAI: https://openai.com/blog/
+
+BAIR: https://bair.berkeley.edu/blog/
+
+MIT: https://news.mit.edu/topic/machine-learning
+
+Neptune AI: https://neptune.ai/blog
+
+Colah's blog: https://colah.github.io/
 
 ## Image Download for Object Detection & Image Classfication
 https://github.com/EscVM/OIDv4_ToolKit
