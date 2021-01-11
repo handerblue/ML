@@ -49,3 +49,5 @@ https://classroom.udacity.com/courses/ud262
 
 Foundations of ML
 https://bloomberg.github.io/foml/#resources
+
+https://d2l.ai/
