@@ -26,6 +26,9 @@ Open Images Dataset: https://storage.googleapis.com/openimages/web/download.html
 https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
 
 ## Books
+- Deep Learning(Ian Goodfellow and Yoshua Bengio and Aaron Courville)
+https://www.deeplearningbook.org/
+
 - Python Data Science Handbook:
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
