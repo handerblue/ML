@@ -17,6 +17,9 @@ Others:
 - Neptune AI: https://neptune.ai/blog
 - Colah's blog: https://colah.github.io/
 
+## CV Papers:
+- https://openaccess.thecvf.com/WACV2021
+
 ## Image Download for Object Detection & Image Classfication
 https://github.com/EscVM/OIDv4_ToolKit
 
